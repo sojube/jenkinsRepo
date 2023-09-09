@@ -1,1 +1,1 @@
-Automatische jenkins triggering.
+Automatisches jenkins triggering.
