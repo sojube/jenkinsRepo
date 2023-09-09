@@ -1,1 +1,1 @@
-Automatisches jenkins triggering.
+Automatisches jenkins triggering durch gitHUb.
